@@ -74,5 +74,3 @@ The application is fully responsive and works on mobile, tablet, and desktop scr
 - **Optimized for Businesses:** Helps streamline operations efficiently.
 - **Visual Insights:** Graphs and reports for better decision-making.
 
-## 🌟 Show Your Support
-If you like this project, please ⭐ the repository!
